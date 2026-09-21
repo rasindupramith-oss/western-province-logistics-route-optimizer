@@ -34,15 +34,23 @@ The optimizer restructured the delivery sequence into a continuous circular loop
 
 ## 🗺️ Optimal Delivery Circuit Visualization
 
-*Start: Kelaniya Central Depot
-*Stop 1: Maharagama
-*Stop 2: Nugegoda
-*Stop 3: Dehiwala
-*Stop 4: Colombo Fort
-*Stop 5: Negombo
-*Stop 6: Gampaha
-*Stop 7: Kadawatha
-*Return: Kelaniya Central Depot
+Start: Kelaniya Central Depot
+
+Stop 1: Maharagama
+
+Stop 2: Nugegoda
+
+Stop 3: Dehiwala
+
+Stop 4: Colombo Fort
+
+Stop 5: Negombo
+
+Stop 6: Gampaha
+
+Stop 7: Kadawatha
+
+Return: Kelaniya Central Depot
 
 ![Optimized Route Map](delivery_route_optimization.png)
 
